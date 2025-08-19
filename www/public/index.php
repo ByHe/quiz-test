@@ -2,7 +2,7 @@
 <html>
 <head lang="sv"></head>
 <body>
-<h1>Matematik-test</h1>
+<h1>Matematik-test av Bygren</h1>
 <form action="u1/evaluate.php" method="get">
    <fieldset>
        <legend>Frågor</legend>
