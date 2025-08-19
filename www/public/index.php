@@ -3,7 +3,7 @@
 <head lang="sv"></head>
 <body>
 <h1>Matematik-test av Bygren</h1>
-<form action="u1/evaluate.php" method="get">
+<form action="u1/evaluate.php" method="post">
    <fieldset>
        <legend>Frågor</legend>
        <label>4 + 5 = </label>
@@ -11,6 +11,9 @@
        <br>
        <label>3 x 5 = </label>
        <input type="text" name="q2">
+       <br>
+       <label>5 - 5 = </label>
+       <input type="text" name="q3">
        <br>
        <input type="submit" value="Rätta">
    </fieldset>
